@@ -3,8 +3,8 @@
 # Original WannaCry
 ![Capture](Screenshots/original_wannacry.png)
 
-# DontWannaCry Architecture
-![Capture2](Screenshots/arch.png)
+# DontWannaCry Layout
+![Capture2](Screenshots/layout.png)
 
 # Ransom Text(English)
 ![Capture](Screenshots/eng_ransom.png)
