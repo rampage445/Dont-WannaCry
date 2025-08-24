@@ -117,13 +117,15 @@ MainWindow::MainWindow(QWidget *parent)
     ui->timewidget2->setStyleSheet("#timewidget2 { border: 1px solid white; }");
 
     ui->time1->setText("Payment will be raised on");
+    ui->time1->setAlignment(Qt::AlignCenter);
     ui->time1->setStyleSheet("color: yellow;");
     ui->date1->setText("08/24/25 00:47:89");
     ui->left1->setText("Time Left");
     ui->timestamp1->setText("02:19:47:78");
 
-    ui->time2->setText("Payment will be raised on");
+    ui->time2->setText("Your files will be lost on");
     ui->time2->setStyleSheet("color: yellow;");
+    ui->time2->setAlignment(Qt::AlignCenter);
     ui->date2->setText("08/28/25 00:47:89");
     ui->left2->setText("Time Left");
     ui->timestamp2->setText("06:19:47:78");
