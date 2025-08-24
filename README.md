@@ -4,7 +4,7 @@
 ![Capture](Screenshots/original_wannacry.png)
 
 # DontWannaCry Architecture
-![Capture2](Screenshots/arc.png)
+![Capture2](Screenshots/arch.png)
 
 # Ransom Text(English)
 ![Capture](Screenshots/eng_ransom.png)
