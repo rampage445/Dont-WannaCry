@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>handshake.jpg</file>
+        <file>lock.jpg</file>
+        <file>bitcoin.png</file>
+    </qresource>
+</RCC>
