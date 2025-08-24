@@ -7,7 +7,7 @@
 ![Capture2](Screenshots/layout.png)
 
 # Ransom Text(English)
-![Capture](Screenshots/eng_ransom.png)
+![Capture](Screenshots/eng.png)
 
 # Ransom Text(Bangla)
-![Capture2](Screenshots/bng_ransom.png)
+![Capture2](Screenshots/bng.png)
