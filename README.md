@@ -9,11 +9,11 @@
 # Original WannaCry
 ![Capture](Screenshots/original_wannacry.png)
 
-# DontWannaCry Layout
+## DontWannaCry Layout
 ![Capture2](Screenshots/layout.png)
 
-# Ransom Text(English)
+## DontWannaCry Ransom Text(English)
 ![Capture](Screenshots/eng.png)
 
-# Ransom Text(Bangla)
+# DontWannaCry Ransom Text(Bangla)
 ![Capture2](Screenshots/bng.png)
