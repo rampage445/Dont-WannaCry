@@ -1,4 +1,4 @@
-## What it does?
+## What it does
 1.Upon running It creates a dummy text file(wannacry.txt) on the current directory & encrypts it.
 
 2. If you click on decrypt button it decrypts the file(wannacry.txt).
