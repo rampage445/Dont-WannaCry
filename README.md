@@ -16,7 +16,7 @@
 ![Capture2](Screenshots/layout.png)
 
 
-# **Ransom Text[[Written with GPT]**
+# **Ransom Text [Written with GPT]**
 
 ## DontWannaCry Ransom Text(English)
 ![Capture](Screenshots/eng.png)
