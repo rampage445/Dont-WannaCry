@@ -177,7 +177,7 @@ MainWindow::MainWindow(QWidget *parent)
     underline_skyblue(ui->buybit, "How to buy bitcoins?");
     underline_skyblue(ui->contact, "Contact Us");
 
-    // Ransom text
+    // Ransom text(Written with GPT)
     QString ransomTextEng = R"(
     <div style="font-size:14pt; font-family: Arial, sans-serif;">
       <h2>DON'T WANNACRY RANSOMWARE</h2>
@@ -198,7 +198,8 @@ MainWindow::MainWindow(QWidget *parent)
       <p>Stay safe and keep laughing!</p>
     </div>
     )";
-
+    
+    // Ransom text Bangla(Written with GPT)
     QString ransomTextBangla = R"(
   <div style="font-size:14pt; font-family: Arial, sans-serif;">
     <h2>ডন'ট ওয়ানাক্রাই র‍্যানসমওয়্যার</h2>
