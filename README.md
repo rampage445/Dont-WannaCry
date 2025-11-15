@@ -15,8 +15,10 @@
 ## DontWannaCry Layout
 ![Capture2](Screenshots/layout.png)
 
+
+**Ransom Text[[Written with GPT]**
 ## DontWannaCry Ransom Text(English)
 ![Capture](Screenshots/eng.png)
 
-# DontWannaCry Ransom Text(Bangla)
+## DontWannaCry Ransom Text(Bangla)
 ![Capture2](Screenshots/bng.png)
