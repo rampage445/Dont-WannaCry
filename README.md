@@ -1,19 +1,22 @@
 ## What it does
-1.Upon running It creates a dummy text file(wannacry.txt) on the current directory & encrypts it.
-
+1. Upon running It creates a dummy text file(wannacry.txt) on the current directory & encrypts it.
 2. If you click on decrypt button it decrypts the file(wannacry.txt).
 
+## Tools
+- **Qt 6 (C++)**
 
 ## Screenshots
 
-# Original WannaCry
-![Capture](Screenshots/original_wannacry.png)
+## Original WannaCry
+- ![Capture](Screenshots/original_wannacry.png)
+
+
 
 ## DontWannaCry Layout
-![Capture2](Screenshots/layout.png)
+-![Capture2](Screenshots/layout.png)
 
 ## DontWannaCry Ransom Text(English)
-![Capture](Screenshots/eng.png)
+-![Capture](Screenshots/eng.png)
 
 # DontWannaCry Ransom Text(Bangla)
-![Capture2](Screenshots/bng.png)
+-![Capture2](Screenshots/bng.png)
