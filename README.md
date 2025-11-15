@@ -8,15 +8,15 @@
 ## Screenshots
 
 ## Original WannaCry
-- ![Capture](Screenshots/original_wannacry.png)
+![Capture](Screenshots/original_wannacry.png)
 
 
 
 ## DontWannaCry Layout
--![Capture2](Screenshots/layout.png)
+![Capture2](Screenshots/layout.png)
 
 ## DontWannaCry Ransom Text(English)
--![Capture](Screenshots/eng.png)
+![Capture](Screenshots/eng.png)
 
 # DontWannaCry Ransom Text(Bangla)
--![Capture2](Screenshots/bng.png)
+![Capture2](Screenshots/bng.png)
